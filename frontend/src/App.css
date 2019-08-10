@@ -1,0 +1,4 @@
+.jumbotron {
+  background: url(assets/thomas.jpg) fixed center no-repeat;
+  background-size: cover;
+}
