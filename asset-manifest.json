@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/homepage/frontend/static/css/main.189cbdfc.chunk.css",
-    "main.js": "/homepage/frontend/static/js/main.037e497f.chunk.js",
-    "main.js.map": "/homepage/frontend/static/js/main.037e497f.chunk.js.map",
-    "runtime~main.js": "/homepage/frontend/static/js/runtime~main.c3ed7810.js",
-    "runtime~main.js.map": "/homepage/frontend/static/js/runtime~main.c3ed7810.js.map",
-    "static/css/2.22a7d4ef.chunk.css": "/homepage/frontend/static/css/2.22a7d4ef.chunk.css",
-    "static/js/2.9b39eba0.chunk.js": "/homepage/frontend/static/js/2.9b39eba0.chunk.js",
-    "static/js/2.9b39eba0.chunk.js.map": "/homepage/frontend/static/js/2.9b39eba0.chunk.js.map",
-    "index.html": "/homepage/frontend/index.html",
-    "precache-manifest.9ffa22f6e4bfd97d133f581930eb7df3.js": "/homepage/frontend/precache-manifest.9ffa22f6e4bfd97d133f581930eb7df3.js",
-    "service-worker.js": "/homepage/frontend/service-worker.js",
-    "static/css/2.22a7d4ef.chunk.css.map": "/homepage/frontend/static/css/2.22a7d4ef.chunk.css.map",
-    "static/css/main.189cbdfc.chunk.css.map": "/homepage/frontend/static/css/main.189cbdfc.chunk.css.map",
-    "static/media/App.css": "/homepage/frontend/static/media/thomas.6d98c71a.jpg"
+    "main.css": "/homepage/static/css/main.8cf6726e.chunk.css",
+    "main.js": "/homepage/static/js/main.097d80bb.chunk.js",
+    "main.js.map": "/homepage/static/js/main.097d80bb.chunk.js.map",
+    "runtime~main.js": "/homepage/static/js/runtime~main.f32f64e7.js",
+    "runtime~main.js.map": "/homepage/static/js/runtime~main.f32f64e7.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/homepage/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.9b39eba0.chunk.js": "/homepage/static/js/2.9b39eba0.chunk.js",
+    "static/js/2.9b39eba0.chunk.js.map": "/homepage/static/js/2.9b39eba0.chunk.js.map",
+    "index.html": "/homepage/index.html",
+    "precache-manifest.6173c86b9d644f1834afb576f3035741.js": "/homepage/precache-manifest.6173c86b9d644f1834afb576f3035741.js",
+    "service-worker.js": "/homepage/service-worker.js",
+    "static/css/2.22a7d4ef.chunk.css.map": "/homepage/static/css/2.22a7d4ef.chunk.css.map",
+    "static/css/main.8cf6726e.chunk.css.map": "/homepage/static/css/main.8cf6726e.chunk.css.map",
+    "static/media/App.css": "/homepage/static/media/thomas.6d98c71a.jpg"
   }
 }
